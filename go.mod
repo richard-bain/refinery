@@ -28,7 +28,7 @@ require (
 	github.com/sourcegraph/conc v0.3.0
 	github.com/stretchr/testify v1.8.4
 	github.com/tidwall/gjson v1.17.0
-	github.com/vmihailenco/msgpack/v4 v4.3.11
+	github.com/vmihailenco/msgpack/v4 v4.3.13
 	go.opentelemetry.io/otel v1.19.0
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetrichttp v0.42.0
 	go.opentelemetry.io/otel/metric v1.19.0
