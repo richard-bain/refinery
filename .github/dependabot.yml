@@ -16,3 +16,4 @@ updates:
     commit-message:
       prefix: "maint"
       include: "scope"
+    open-pull-requests-limit: 100
